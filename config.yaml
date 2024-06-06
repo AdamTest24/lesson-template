@@ -8,16 +8,16 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'l2d'
 
-# Overall title for pages.
+# FIXME: Overall title for pages.
 title: 'Lesson Title'
 
-# Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-06-06'
+# FIXME: Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: ~
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'L2D'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -26,20 +26,20 @@ life_cycle: 'pre-alpha'
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
-# Link to the source repository for this lesson
-source: 'https://github.com/milanmlft/lesson-template'
+# FIXME: Link to the source repository for this lesson
+source: 'https://github.com/LearnToDiscover/lesson-template'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'admin@learntodiscover.ai'
 
 # Generate PDFs of episodes?
-pdf: FALSE
+pdf: TRUE
 
 # Generate ipynb notebooks of episodes?
-ipynb: FALSE
+ipynb: TRUE
 
 # Navigation ------------------------------------------------
 #
