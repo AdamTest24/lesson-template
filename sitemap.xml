@@ -10,6 +10,12 @@
     <loc>https://LearnToDiscover.github.io/lesson-template/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/images.html</loc>
+  </url>
+  <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/index.html</loc>
   </url>
   <url>
@@ -22,10 +28,22 @@
     <loc>https://LearnToDiscover.github.io/lesson-template/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/instructor/profiles.html</loc>
@@ -34,7 +52,13 @@
     <loc>https://LearnToDiscover.github.io/lesson-template/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://LearnToDiscover.github.io/lesson-template/key-points.html</loc>
   </url>
   <url>
     <loc>https://LearnToDiscover.github.io/lesson-template/profiles.html</loc>
